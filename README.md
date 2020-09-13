@@ -61,6 +61,8 @@ These entries only vary in the ``difficultyrating`` from what I know.
 
 ```
 
+Columns, `"max_combo", "diff_aim", "diff_speed"` may be NULL.
+
 ## SCORES
 Only ranked & loved beatmaps are grabbed.
 
